@@ -1,0 +1,1 @@
+Should be self explanatory what this mod does, but in case it's not, this mod turns the Chronobauble from a tier 2 (green) item into a tier 1 (white) item.
