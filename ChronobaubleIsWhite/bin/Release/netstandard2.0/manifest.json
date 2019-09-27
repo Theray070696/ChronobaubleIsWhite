@@ -1,8 +1,9 @@
 {
     "name": "ChronobaubleIsWhite",
-    "version_number": "1.0.0",
+    "version_number": "1.0.2",
     "website_url": "https://github.com/Theray070696/ChronobaubleIsWhite",
     "description": "",
     "dependencies": [
+      "bbepis-BepInExPack-2.0.0"
     ]
 }
